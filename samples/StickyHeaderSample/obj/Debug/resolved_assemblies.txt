@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\stickyheader-1.1.0\samples\StickyHeaderSample\bin\Debug\StickyHeaderSample.dll
+C:\Users\Administrator\Desktop\stickyheader-1.1.0\lib\android\StickyHeader.dll
+C:\Users\Administrator\Desktop\stickyheader-1.1.0\samples\StickyHeaderSample\packages\Xamarin.Android.Support.v4.22.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll
+C:\Users\Administrator\Desktop\stickyheader-1.1.0\samples\StickyHeaderSample\packages\Xamarin.Android.Support.v7.AppCompat.22.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Administrator\Desktop\stickyheader-1.1.0\samples\StickyHeaderSample\packages\Xamarin.Android.Support.v7.GridLayout.22.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v7.GridLayout.dll
+C:\Users\Administrator\Desktop\stickyheader-1.1.0\samples\StickyHeaderSample\packages\Xamarin.Android.Support.v7.RecyclerView.22.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v7.RecyclerView.dll

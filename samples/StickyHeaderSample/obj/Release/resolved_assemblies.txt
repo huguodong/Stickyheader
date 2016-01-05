@@ -1,0 +1,10 @@
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\StickyHeaderSample.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\Mono.Android.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\mscorlib.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\StickyHeader.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\System.Core.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\System.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\Xamarin.Android.Support.v7.GridLayout.dll
+E:\xamarin\stickyheader-1.1.0\samples\StickyHeaderSample\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
